@@ -11,16 +11,34 @@ This repository presents a deep learning approach to predicting citations of res
 - **Models Used**: 
   - Machine learning and deep learning models to predict article citations, achieving 88% accuracy.
 
-## Getting Started
+## Feature Selection
 
-### Prerequisites
+Feature selection was done using the following algorithms:
 
-- Python 3.6+
-- Libraries: NLTK, pandas, numpy, matplotlib, spacy, scikit-learn, TensorFlow/PyTorch
+- **Information Gain**
+- **Gini Index**
+- **Gain Ratio**
 
-### Installation
+## Citation Prediction Models
 
-1. Clone the repository:
+The following models were implemented:
 
-   ```bash
-   git clone https://github.com/arslank001/Web-of-Science-Dataset.git
+- Random Forest
+- Gradient Boosting
+- Deep Neural Networks
+
+## Results
+
+The model achieved an accuracy of **88%**, outperforming similar studies in the field.
+
+## Future Work
+
+The dataset and detailed dissertation title will be made available after the related research article is officially published. Stay tuned for updates!
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Author
+
+- **Arslaan** - [GitHub](https://github.com/arslank001)

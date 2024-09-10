@@ -31,6 +31,10 @@ The following models were implemented:
 
 The model achieved an accuracy of **88%**, outperforming similar studies in the field.
 
+## Dataset Availability
+
+The dataset used for this project is available upon request. Please contact the author if you would like access.
+
 ## Future Work
 
 The dataset and detailed dissertation title will be made available after the related research article is officially published. Stay tuned for updates!

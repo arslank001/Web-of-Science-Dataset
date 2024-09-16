@@ -45,4 +45,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Author
 
-- **Arslaan** - [GitHub](https://github.com/arslank001)
+- **Arslan Tahir** - [GitHub](https://github.com/arslank001)

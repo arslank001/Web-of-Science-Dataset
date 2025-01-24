@@ -1,4 +1,4 @@
-# Citation Prediction of Research Articles using Deep Learning
+# Predicting Top Cited Research Articles Data
 
 This repository presents a deep learning approach to predicting citations of research articles from the Web of Science dataset. The data spans articles published between 2013 and 2021, including their citation counts and various other features.
 
